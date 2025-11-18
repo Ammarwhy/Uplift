@@ -1,5 +1,4 @@
 {
-  "buildCommand": "npx vite build --minify --sourcemap=false",
-  "outputDirectory": "dist",
-  "framework": null
+  "framework": "vite",
+  "outputDirectory": "dist"
 }
